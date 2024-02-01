@@ -1,0 +1,33 @@
+{
+  "name": "stylelint-brace-style",
+  "version": "0.0.1",
+  "description": "A `stylelint` plugin that provides a rule to enforce brace-style.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzjnzk/stylelint-brace-style.git"
+  },
+  "keywords": [
+    "stylelint",
+    "plugin",
+    "scss",
+    "css",
+    "brace-style"
+  ],
+  "author": "https://github.com/rzjnzk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rzjnzk/stylelint-brace-style/issues"
+  },
+  "homepage": "https://github.com/rzjnzk/stylelint-brace-style#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "stylelint": "^16.2.1",
+    "stylelint-config-standard": "^36.0.0",
+    "stylelint-config-standard-scss": "^13.0.0",
+    "stylelint-scss": "^6.1.0"
+  }
+}

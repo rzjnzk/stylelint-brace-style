@@ -1,0 +1,16 @@
+{ 
+    "extends": 
+    [
+        "stylelint-config-standard",
+        "stylelint-config-standard-scss"
+    ],
+    "plugins": 
+    [
+        "stylelint-scss",
+        "./index.js"
+    ],
+    "rules": 
+    {
+
+    }
+}
